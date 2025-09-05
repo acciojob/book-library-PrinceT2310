@@ -2,6 +2,9 @@
 body{
 	background-color: #f8f8f8;
 }
+h1{
+	text-align: center;
+}
 .book-library{
 	text-align: center;
 	background-color: #ffffff;
@@ -17,8 +20,7 @@ body{
 }
 
 img{
-	width: 50%;
-	height: 450px
+	object-fit: cover;
 }
 h2, p{
 	text-align: left;
