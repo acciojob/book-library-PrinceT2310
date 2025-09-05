@@ -24,15 +24,14 @@ img{
   object-fit: cover;
   border-radius: 5px;
 }
-.title, .author{
+/* .title, .author{
 	text-align: left
-}
+} */
 .author{
 	color: #777777;
 }
-.price-block{
+.price{
 	color: #2ecc71;
-	text-align: center;
 }
 
 
