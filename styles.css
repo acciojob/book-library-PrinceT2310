@@ -1,36 +1,19 @@
-/*  your css code here. If applicable */
-body{
-	background-color: #f8f8f8;
+body {
+  background-color: #f8f8f8;
 }
-h1{
-	text-align: center;
-}
+
 .book-library {
   background-color: #ffffff;
 }
-.book{
-	border: 3px solid #f5f5f5;
-	margin: 20px auto;
-	box-shadow: 2px 2px 4px lightgray;
-	text-align: center;
-	padding: 25px
+
+.book {
+  /* Optional styling allowed here */
 }
 
-img{
-  width: 200px;
-  height: 300px;
-  object-fit: cover;
-  border-radius: 5px;
+.author {
+  color: #777777;
 }
-h2, p{
-	text-align: left;
-}
-.author{
-	color: #777777;
-}
+
 .price-block {
   background-color: #2ecc71;
 }
-
-
-
