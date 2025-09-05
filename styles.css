@@ -20,7 +20,10 @@ h1{
 }
 
 img{
-	object-fit: cover;
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 5px;
 }
 h2, p{
 	text-align: left;
